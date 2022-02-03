@@ -1,6 +1,6 @@
 # Disney Plus Clone Readme
 
-## <a href="https://disneyplus-clone-f6736.web.app/" target="_blank">LIVE DEMO</a>
+## <a href="" target="_blank">LIVE DEMO</a>
 
 
 
